@@ -1,0 +1,6 @@
+{
+  "name": "AimPulse: Accurate Shot & Aim Master",
+  "description": "Pro aim training arena, cross-game sensitivity converter, custom crosshair builder, and reaction drills to hit accurate shots in any game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
